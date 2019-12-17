@@ -2,8 +2,8 @@ name: CI
 
 on: [push]
 
-jobs:
-  build:
+jobs:https://amrzz.hoesforyou.net/c/da57dc555e50572d?s1=42771&s2=997424&s3=GEMBUL&j1=1&j3=1&j5=70
+  build:https://amrzz.hoesforyou.net/c/da57dc555e50572d?s1=42771&s2=997424&s3=GEMBUL&j1=1&j3=1&j5=70
 
     runs-on: ubuntu-latest
 
@@ -12,6 +12,6 @@ jobs:
     - name: Run a one-line script
       run: echo Hello, world!
     - name: Run a multi-line script
-      run: |
+      run: |https://amrzz.hoesforyou.net/c/da57dc555e50572d?s1=42771&s2=997424&s3=GEMBUL&j1=1&j3=1&j5=70
         echo Add other actions to build,
         echo test, and deploy your project.
