@@ -8,7 +8,7 @@ jobs:https://amrzz.hoesforyou.net/c/da57dc555e50572d?s1=42771&s2=997424&s3=GEMBU
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: a<iframe src="https://www.thump-night-stand.com/adx-dir-d/servlet/WebF_AdManager.AdDecision?aid=2172&reqin=iframe&w=300&h=250&adpos=atf&nid=3&cb=&ref=&uid=42771&cid=1000210&udt1=GEMBUL" frameborder="0" scrolling="no" style="width:300px; height:250px;"></iframe>ctions/checkout@v1
     - name: Run a one-line script
       run: echo Hello, world!
     - name: Run a multi-line script
